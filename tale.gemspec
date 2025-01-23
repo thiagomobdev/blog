@@ -17,6 +17,14 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-feed", "~> 0.10"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.5"
 
+  # Adicionando dependências recomendadas para futuras versões do Ruby
+  spec.add_runtime_dependency "logger", "~> 1.5"
+  spec.add_runtime_dependency "csv", "~> 3.2"
+  spec.add_runtime_dependency "ostruct", "~> 0.5"
+  spec.add_runtime_dependency "base64", "~> 0.1"
+  spec.add_runtime_dependency "bigdecimal", "~> 3.1"
+
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 12.3.3"
 end
+
