@@ -1,7 +1,7 @@
 # Site settings
 title:          Thiago
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/blog"
+baseurl:        "/tale"
 url:            "https://thiagomobdev.github.io"
 
 # Google Analytics
@@ -9,8 +9,8 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
+  name:         Thiago S. Borghardt
+  # url:          https://chester.how
   email:       	thiago.mobdev@gmail.com
 
 # Build settings
