@@ -1,7 +1,7 @@
 # Site settings
 title:          Thiago
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+description:    "Um blog minimo de programação em Kotlin"
+baseurl:        "/blog"
 url:            "https://thiagomobdev.github.io"
 
 # Google Analytics
