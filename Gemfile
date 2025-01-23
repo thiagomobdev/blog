@@ -2,3 +2,10 @@
 
 source "https://rubygems.org"
 gemspec
+
+gem "logger"
+gem "csv"
+gem "ostruct"
+gem "base64"
+gem "bigdecimal"
+
