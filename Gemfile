@@ -9,3 +9,6 @@ gem "ostruct"
 gem "base64"
 gem "bigdecimal"
 
+
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
